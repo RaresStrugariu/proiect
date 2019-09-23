@@ -1,0 +1,7 @@
+﻿body#override div#terog {
+    height: 100% !important;
+    background-image: url('../images/conf 2.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
